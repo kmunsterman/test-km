@@ -1,0 +1,14 @@
+---
+title: "Lab8_practice_practice"
+author: "Katrina Munsterman"
+date: "3/13/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+are you working? 
+
+
